@@ -1,0 +1,7 @@
+baseURL = "https://rene.tk/"
+languageCode = "en-us"
+title = "René Breckner"
+theme = "hallo"
+
+[Author]
+    name = "René"
